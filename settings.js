@@ -18,7 +18,7 @@ global.autoread = true // auto read pesan / message
 //global.available = true //status online (online)
 
 // Other
-global.botname = "AZZBOT-MD" //namabot kalian
+global.botname = "Ditz-MD" //namabot kalian
 global.ownername= "Yahya×፝֟͜×" //nama kalian
 global.myweb ="https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g" //bebas asal jan hapus
